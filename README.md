@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
- [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+ [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/1192102924)
 
 ---
 
