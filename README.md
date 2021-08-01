@@ -33,15 +33,33 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mattiasu96&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+### Projects  
+
+1. [Recommender Systems Course Challenge](https://github.com/mattiasu96/Recommender-Systems-Challenge): Recommending books with Machine Learning
+2. [Data Mining Course Project](https://github.com/mattiasu96/Data-Mining-2020-Project): Predictive maintenance of air conditioning systems in telecommunication antennas
+3. [FootPlus](https://github.com/mattiasu96/FootPlus): Data analysis and visualization of the environmental impact of fisheries
+4. [Data and Results Visualization course project](https://github.com/mattiasu96/Data-and-Results-Visualization-Project): Analysis of the impact of COVID-19 on music streamings and charts
+5. [Trap Generator](https://github.com/mattiasu96/TrapGenerator): Trap beat automatic composer using neural networks
+6. [Fundamentals of Acoustic cours project](https://github.com/mattiasu96/Fundamentals-of-acoustic-Project): Physical and Acoustic analysis of artificial harmonics on electric guitars
+7. [API Project](https://github.com/mattiasu96/APIProject): Non deterministic Turing Machine simulator written in C for the course of Algorithms and Data Structures 
+8. [Sagrada](https://github.com/mattiasu96/sagrada-alloma): Java based porting of a real world board game with multiplayer features 
+
+
+
+
+<br/>
+
+---
 
 ### Contact with me 📝
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mattiasu96&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 [<img align="left" alt="bilgehangecici.site" height="30px" src="https://image.flaticon.com/icons/svg/174/174883.svg" />][youtube]
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 [<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
-<br />
+<br/>
 
 ---
 
