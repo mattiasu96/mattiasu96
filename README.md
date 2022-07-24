@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 
 ### Projects  
 
-1.[RecSys Challenge 2021](https://github.com/mattiasu96/recsys-challenge-2021-twitter): ACM Recommender System competition hosted by Twitter. 1st academic prize, 4th position overall
+
+1. [RecSys Challenge 2021](https://github.com/mattiasu96/recsys-challenge-2021-twitter): ACM Recommender System competition hosted by Twitter. 1st academic prize, 4th position overall
 2. [Recommender Systems Course Challenge](https://github.com/mattiasu96/Recommender-Systems-Challenge): Recommending books with Machine Learning
 3. [Data Mining Course Project](https://github.com/mattiasu96/Data-Mining-2020-Project): Predictive maintenance of air conditioning systems in telecommunication antennas
 4. [FootPlus](https://github.com/mattiasu96/FootPlus): Data analysis and visualization of the environmental impact of fisheries
