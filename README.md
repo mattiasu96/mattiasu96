@@ -35,16 +35,16 @@ Here are some ideas to get you started:
 
 ### Projects  
 
-
-1. [RecSys Challenge 2021](https://github.com/mattiasu96/recsys-challenge-2021-twitter): ACM Recommender System competition hosted by Twitter. 1st academic prize, 4th position overall
-2. [Recommender Systems Course Challenge](https://github.com/mattiasu96/Recommender-Systems-Challenge): Recommending books with Machine Learning
-3. [Data Mining Course Project](https://github.com/mattiasu96/Data-Mining-2020-Project): Predictive maintenance of air conditioning systems in telecommunication antennas
-4. [FootPlus](https://github.com/mattiasu96/FootPlus): Data analysis and visualization of the environmental impact of fisheries
-5. [Data and Results Visualization course project](https://github.com/mattiasu96/Data-and-Results-Visualization-Project): Analysis of the impact of COVID-19 on music streamings and charts
-6. [Trap Generator](https://github.com/mattiasu96/TrapGenerator): Trap beat automatic composer using neural networks
-7. [Fundamentals of Acoustic cours project](https://github.com/mattiasu96/Fundamentals-of-acoustic-Project): Physical and Acoustic analysis of artificial harmonics on electric guitars
-8. [API Project](https://github.com/mattiasu96/APIProject): Non deterministic Turing Machine simulator written in C for the course of Algorithms and Data Structures 
-9. [Sagrada](https://github.com/mattiasu96/sagrada-alloma): Java based porting of a real world board game with multiplayer features 
+1. [RecSys Challenge 2022](https://github.com/mattiasu96/recsys2022)
+2. [RecSys Challenge 2021](https://github.com/mattiasu96/recsys-challenge-2021-twitter): ACM Recommender System competition hosted by Twitter. 1st academic prize, 4th position overall
+3. [Recommender Systems Course Challenge](https://github.com/mattiasu96/Recommender-Systems-Challenge): Recommending books with Machine Learning
+4. [Data Mining Course Project](https://github.com/mattiasu96/Data-Mining-2020-Project): Predictive maintenance of air conditioning systems in telecommunication antennas
+5. [FootPlus](https://github.com/mattiasu96/FootPlus): Data analysis and visualization of the environmental impact of fisheries
+6. [Data and Results Visualization course project](https://github.com/mattiasu96/Data-and-Results-Visualization-Project): Analysis of the impact of COVID-19 on music streamings and charts
+7. [Trap Generator](https://github.com/mattiasu96/TrapGenerator): Trap beat automatic composer using neural networks
+8. [Fundamentals of Acoustic cours project](https://github.com/mattiasu96/Fundamentals-of-acoustic-Project): Physical and Acoustic analysis of artificial harmonics on electric guitars
+9. [API Project](https://github.com/mattiasu96/APIProject): Non deterministic Turing Machine simulator written in C for the course of Algorithms and Data Structures 
+10. [Sagrada](https://github.com/mattiasu96/sagrada-alloma): Java based porting of a real world board game with multiplayer features 
 
 
 
