@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### Projects  
 
-1. [RecSys Challenge 2022](https://github.com/mattiasu96/recsys2022)
+1. [RecSys Challenge 2022](https://github.com/mattiasu96/recsys2022): Our code for the 11th at RecSys Challenge 2022 as completely independent researchers with no financial support
 2. [RecSys Challenge 2021](https://github.com/mattiasu96/recsys-challenge-2021-twitter): ACM Recommender System competition hosted by Twitter. 1st academic prize, 4th position overall
 3. [Recommender Systems Course Challenge](https://github.com/mattiasu96/Recommender-Systems-Challenge): Recommending books with Machine Learning
 4. [Data Mining Course Project](https://github.com/mattiasu96/Data-Mining-2020-Project): Predictive maintenance of air conditioning systems in telecommunication antennas
