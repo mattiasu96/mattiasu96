@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 ## I am a Musician Computer Scientist
 
-- 📚 I am currently studying Computer Science with particular focus on AI/ML and audio applications.
-- 💪🏼 Future Goals: Basically writing code while jammin with my guitar
-- ⚡ Fun fact: I am studying engineering because I am a musician (weird ah?)
+- :wrench: Currently working as Machine Learning Engineer @ [Prima Assicurazioni](https://www.prima.it/) 
+- :books: Graduated in Computer Science @ Politecnico di Milano with particular focus on AI/ML and audio applications.
+- 💪🏼 Future Goals: writing code while jammin with my guitar
+- ⚡  Fun fact: I am studying engineering because I am a musician. I started playing the guitar when I was 10 years old, then I decided to study electronics in high school and computer science in university to be able to understand also the technology involved in the music industry (weird ah?)
 
 ---
 
@@ -53,18 +54,15 @@ Here are some ideas to get you started:
 
 ---
 
-### Contact with me 📝
+### Links 📝
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mattiasu96&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://image.flaticon.com/icons/svg/174/174883.svg" />][youtube]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+[<img align="left" alt="bilgehangecici.site" height="30px" src="./images/youtube.png" />][youtube]
+[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="./images/LI-In-Bug.png"/>][linkedin]
 
 <br/>
 
 [youtube]: https://www.youtube.com/user/mattiasu96
 [linkedin]: https://www.linkedin.com/in/mattiasurricchio/
-[Spotify]: https://open.spotify.com/user/1192102924
-
 
