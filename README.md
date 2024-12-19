@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## I am a Musician Computer Scientist
 
-- :wrench: Currently working as Machine Learning Engineer @ [Prima Assicurazioni](https://www.prima.it/) 
+- :wrench: Currently working as Software/Data Engineer @ [ABN Amro](https://www.abnamro.nl/nl/zakelijk/index.html) 
 - :books: Graduated in Computer Science @ Politecnico di Milano with particular focus on AI/ML and audio applications.
 - 💪🏼 Future Goals: writing code while jammin with my guitar
 - ⚡  Fun fact: I am studying engineering because I am a musician. I started playing the guitar when I was 10 years old, then I decided to study electronics in high school and computer science in university to be able to understand also the technology involved in the music industry (weird ah?)
